@@ -1,0 +1,14 @@
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\bin\Debug\BookStorageApp.exe.config
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\bin\Debug\BookStorageApp.exe
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\bin\Debug\BookStorageApp.pdb
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\bin\Debug\BookStorageApp.xml
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.vbprojAssemblyReference.cache
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.Resources.resources
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.vbproj.GenerateResource.cache
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.vbproj.CoreCompileInputs.cache
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.exe
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.xml
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.pdb
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.MainGUI.resources
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.AddBookGUI.resources
+C:\Users\benan\Documents\GitHub\book-store-assessment-171075\BookStorageApp\obj\Debug\BookStorageApp.DisplayBookInfo.resources

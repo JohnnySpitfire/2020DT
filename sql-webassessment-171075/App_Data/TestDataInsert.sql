@@ -1,0 +1,22 @@
+﻿SET IDENTITY_INSERT [dbo].[tblLostProperty] ON
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (1, 'Hayyim Grier', 'Samsung J2', 'Electronics', 'Goldenrod', '2020-04-14 10:46:55');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (2, 'Marie-ann Guyet', 'Nikon Camera', 'Electronics', 'Orange', '2020-03-01 0:39:28');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (3, 'Ambrose Taylerson', 'Jacket', 'Clothing', 'Violet', '2020-09-11 1:00:50');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (4, 'Giorgio Nutty', 'Dress Shoes', 'Clothing', 'Indigo', '2019-11-07 10:55:53');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (5, 'Louie Rennie', 'Power Bank', 'Electronics', 'Red', '2020-10-02 10:56:00');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (6, 'Colet Hyatt', 'Parker Pen', 'Stationary', 'Blue', '2020-01-18 15:22:23');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (7, 'Alex Gravatt', 'Laptop', 'Electronics', 'Teal', '2020-06-04 11:18:25');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (8, 'Bobbye Cridge', 'Wallet', 'Personal Item', 'Fuscia', '2020-05-22 11:45:36');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (9, 'Roderic Andrichak', 'Leather Satchel', 'Clothing', 'Purple', '2020-08-08 1:51:57');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (10, 'Amalie Waterman', 'The Prince Of Milk', 'Book', 'Goldenrod', '2020-03-05 15:03:07');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (11, 'Kean Olive', 'Glasses Case', 'Clothing', 'Purple', '2020-04-23 22:00:31');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (12, 'Anastassia Chaucer', 'iPhone 10S', 'Electronics', 'Teal', '2020-07-17 4:28:16');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (13, 'Iseabal Fonteyne', 'Headphones', 'Electronics', 'Aquamarine', '2019-11-26 9:29:05');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (14, 'Birch Sare', 'The Fifth Science', 'Book', 'Yellow', '2020-07-16 11:40:08');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (15, 'Washington Hovert', 'Wallet', 'Personal Item', 'Pink', '2019-10-31 11:07:13');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (16, 'Zondra Trevear', 'Pencil Case', 'Personal Item', 'Yellow', '2019-11-20 9:31:21');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (17, 'Charlton Le Jean', 'Rain Coat', 'Clothing', 'Violet', '2019-12-21 18:04:32');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (18, 'Dalston Hounsom', 'Hoodie', 'Clothing', 'Green', '2019-11-16 7:54:17');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (19, 'Robbie Popple', 'Calculator', 'Electronics', 'Goldenrod', '2019-11-14 12:36:30');
+insert into [dbo].[tblLostProperty] (id, NameOnLabel, NameOfItem, Category, Colour, DateFound ) values (20, 'Tersina Fries', 'The Paradox Paradox', 'Book', 'Indigo', '2020-02-26 16:46:42');
+SET IDENTITY_INSERT [dbo].[tblLostProperty] OFF;
